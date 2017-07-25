@@ -26,3 +26,22 @@
     color: #5c2b24;
     background-color: #efba66;
 }
+.app-wrap img {
+    width: 100%;
+}
+.app-wrap {
+    position: relative;
+}
+.btn_03_01 {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 64.7%;
+    margin-left: -33%;
+}
+.btn_03_01.tc {
+    top: 51%;
+}
+.btn_03_01.ll {
+    top: 74%;
+}
